@@ -23,3 +23,5 @@
 | 1 | Markdown Languge 🎃 | font size, font color, bullet point, [syntax](https://www.markdownguide.org/basic-syntax) 
 | 2 | Generating code cells 🌻 | codelines, run(execute) |
 | 3 | FiveTypesofData 🌟 | number, List, Tuple, Strings |
+| 4 | Indexing Slicing 🐸 | Sequence Data |
+
