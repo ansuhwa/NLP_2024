@@ -25,6 +25,6 @@
 | 3 | FiveTypesofData 🌟 | number, List, Tuple, Strings |
 | 4 | Indexing Slicing 🐸 | Sequence Data |
 | 5 | Regular Expression 🐰 | 정규 표현식, re , 문자열 형태 |
-
+| 6 | Defining Functions |
 
 
