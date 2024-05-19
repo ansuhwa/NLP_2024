@@ -26,5 +26,6 @@
 | 4 | Indexing Slicing 🐸 | Sequence Data |
 | 5 | Regular Expression 🐰 | 정규 표현식, re , 문자열 형태 |
 | 6 | Defining Functions |
-
-
+| 7 | Class Method Member Object |
+| 8 | Read Txt Files lmporting from |
+| 9 | Install Packages ImportModlues Call Functions ChatGPT |
